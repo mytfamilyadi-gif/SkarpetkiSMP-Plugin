@@ -1,0 +1,16 @@
+name: SkarpetkiSMP-Sklep
+version: 1.0.0
+main: pl.skarpetkismp.sklep.SkarpetkiSMPPlugin
+api-version: '1.21'
+author: SkarpetkiSMP
+description: Integracja sklepu WWW z serwerem Paper
+
+commands:
+  sklep:
+    description: Integracja sklepu SKARPETKISMP
+    usage: /sklep
+
+permissions:
+  skarpetkismp.admin:
+    description: Administracja sklepu
+    default: op
