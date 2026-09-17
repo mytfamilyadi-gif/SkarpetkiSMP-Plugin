@@ -1,0 +1,17 @@
+api-url: "https://skarpetkismp.mytfamilyadi.workers.dev"
+
+products:
+  skarpetki:
+    command: "give %player% minecraft:tripwire_hook %amount%"
+
+  legendarna:
+    command: "give %player% minecraft:tripwire_hook %amount%"
+
+  spawnerow:
+    command: "give %player% minecraft:tripwire_hook %amount%"
+
+  epicka:
+    command: "give %player% minecraft:tripwire_hook %amount%"
+
+  rzadka:
+    command: "give %player% minecraft:tripwire_hook %amount%"
